@@ -1,5 +1,6 @@
 {
-  "name": "https://DieterRasmusen.github.io/homework-front-main",
+  "name": "hws2",
+  "homepage": "https://DieterRasmusen.github.io/homework-front-main",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
